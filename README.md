@@ -13,3 +13,7 @@
 4. 기본 로그인 값 ID : pusanit001 , PW : pusanit
 
 
+![로그인메인](https://user-images.githubusercontent.com/34128998/88900393-47ca9500-d28a-11ea-85f0-8091581a2628.PNG)
+![성적관리메인](https://user-images.githubusercontent.com/34128998/88900411-4d27df80-d28a-11ea-9525-b1f172ca4dfe.PNG)
+
+
